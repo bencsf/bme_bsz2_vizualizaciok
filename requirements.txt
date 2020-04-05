@@ -1,0 +1,6 @@
+copy
+numpy
+networkx
+ipywidgets
+matplotlib
+pygraphviz
