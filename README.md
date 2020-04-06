@@ -1,1 +1,1 @@
-Launch Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bencsf/bme_bsz2_vizualizaciok/master)
+Launch Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bencsf/bme_bsz2_vizualizaciok/master?filepath=javitoutas_algoritmus.ipynb)
