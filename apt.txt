@@ -1,3 +1,4 @@
 graphviz
 graphviz-dev
 imagemagick
+qpdf
